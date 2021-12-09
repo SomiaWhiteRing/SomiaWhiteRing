@@ -6,7 +6,7 @@
 
 ## 本日歌曲推荐
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315btopzta7uhn74dyi6tmf74evy&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=315btopzta7uhn74dyi6tmf74evy&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315btopzta7uhn74dyi6tmf74evy&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=315btopzta7uhn74dyi6tmf74evy&redirect=true)
 <!--
 **SomiaWhiteRing/SomiaWhiteRing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
