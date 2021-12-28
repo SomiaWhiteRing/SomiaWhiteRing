@@ -1,6 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
-## 摸鱼小卡片
+## 大家都有的小卡片
 
 ![SomiaWhiteRing's GitHub stats](https://github-readme-stats.vercel.app/api?username=SomiaWhiteRing&count_private=true)
 
